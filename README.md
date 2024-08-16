@@ -1,7 +1,7 @@
 # COVID-19-Image-Classification-and-Dimensionality-Reduction
 This project explores dimensionality reduction, unsupervised learning, and neural networks applied to chest X-ray images to classify and cluster images of COVID-19, Viral Pneumonia, and Normal conditions.
 
-##Overview
+## Overview
 The project involves:
 - Dimensionality Reduction: Applying Principal Component Analysis (PCA) to reduce the complexity of image data while preserving 90% of the variance. Visualization includes comparing original images to their PCA-reconstructed versions.
 
@@ -11,5 +11,5 @@ The project involves:
 
 - Data Generation: Using the trained models to generate and visualize new images in the original space.
 
-##Dataset
+## Dataset
 The dataset used in this project is available on Kaggle: [COVID-19 Image Dataset on Kaggle](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
